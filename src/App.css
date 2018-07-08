@@ -6,7 +6,6 @@
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
 }
-
 .App-intro {
   font-size: large;
   display: flex;
@@ -26,7 +25,6 @@
   width: 500px;
   margin: 10px;
 }
-
 .app-header {
   margin: 10px;
 }
@@ -35,7 +33,6 @@
   font-size: 25px;
   font-weight: 500;
 }
-
 .input {
   display: flex;
   justify-content: flex-start;

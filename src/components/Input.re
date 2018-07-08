@@ -8,7 +8,7 @@ let make = (~value, ~onInputText, ~submit, _children) => {
     <div className="input">
       <input
         value
-        placeholder="Enter item and click add"
+        placeholder="Enter item and click add "
         onChange=(
           event =>
             onInputText(
